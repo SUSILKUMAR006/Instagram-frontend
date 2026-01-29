@@ -7,8 +7,7 @@
     "dev": "vite",
     "server": "json-server --watch DB/db.json --port 3000",
     "build": "vite build",
-    "preview": "vite preview",
-    "render-build": "npm install && npm run build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "axios": "^1.13.2",
